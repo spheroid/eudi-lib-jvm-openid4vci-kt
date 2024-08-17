@@ -4,7 +4,7 @@ import org.owasp.dependencycheck.gradle.extension.DependencyCheckExtension
 import java.net.URL
 
 object Meta {
-    const val BASE_URL = "https://github.com/eu-digital-identity-wallet/eudi-lib-jvm-openid4vci-kt"
+    const val BASE_URL = "https://github.com/spheroid/eudi-lib-jvm-openid4vci-kt"
 }
 
 plugins {
